@@ -1,4 +1,4 @@
-# AdaCoder: Adaptive Planning Framework for Multi-Agent Code Generation
+# AdaCoder: An Adaptive Planning and Multi-Agent Framework for Function-Level Code Generation
 
 ## Overview
 
